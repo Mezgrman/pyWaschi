@@ -1,6 +1,5 @@
 pyWaschi – A Python wrapper for the Waschi API
 ==============================================
-…it's called TweetPony because I developed it with ponies in mind.
 
 License
 -------
